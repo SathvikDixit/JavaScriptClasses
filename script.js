@@ -17,3 +17,10 @@ alert("You are on the wrong way b!tc#");
 
 // Pronpt, Alert ka bhai hain but vo ek kadam aage hain
 prompt("What do you do?");
+
+
+
+
+var arr = [1,4,2,3,6,7,8];
+b = [...arr];
+// b.pop();
