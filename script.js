@@ -46,3 +46,9 @@ function asdf() {
     console.log("Banwar Singh Shikawat ");
 }
 asdf();
+
+
+function qwer() {
+    return 123;
+}
+var ans = (qwer());
