@@ -74,5 +74,9 @@ array.forEach(function(val1) {
 
 // OBJECT
 
-var obj = {};
-var obj = new Object();
+var obj = {
+    name = "Sathivk",
+    calss = "CSD b",
+    roll = "083"
+};
+
