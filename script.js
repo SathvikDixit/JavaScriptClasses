@@ -52,3 +52,27 @@ function qwer() {
     return 123;
 }
 var ans = (qwer());
+
+
+
+
+// Arrays
+var users = ["Sathvik", "Dixit", "This is probably"];
+console.log(users[1 ]);
+
+var arr = [1, 2, "3", function(){}, [], 6];    // We could add many things to the array like here we added a number, function, an array etc... 
+console.log(arr[1]);
+
+    // Loop in array
+var array = [1, 2, 3, 4, 5];
+array.forEach(function(val1) {
+    console.log(val1);
+})
+
+
+
+
+// OBJECT
+
+var obj = {};
+var obj = new Object();
