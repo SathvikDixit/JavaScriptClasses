@@ -73,3 +73,6 @@ array.forEach(function(val1) {
 
 
 // OBJECT
+
+var obj = {};
+var obj = new Object();
